@@ -12,3 +12,9 @@
 int a = 1024;
 int b;
 b = a << 2;
+
+
+
+// this is the second commit
+
+int c = 1024;
